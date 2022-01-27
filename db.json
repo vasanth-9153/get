@@ -1,5 +1,5 @@
 {
  "scanInterval":5, 
 "syncInterval":5, 
-"deviceScanCooldown":3600, 
+"deviceScanCooldown":3600
 }
