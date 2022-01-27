@@ -1,5 +1,4 @@
 {
- "scanInterval":5, 
-"syncInterval":5, 
-"deviceScanCooldown":3600
+  "id": 1,
+  "title": "hello"
 }
