@@ -1,9 +1,5 @@
 {
-  "settings":
-{ 
-"scanInterval":10, 
-"syncInterval":10, 
-"deviceScanCooldown":60
-}
-  
+ "scanInterval":5, 
+"syncInterval":5, 
+"deviceScanCooldown":3600, 
 }
